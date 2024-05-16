@@ -27,10 +27,11 @@ To run this project locally, clone the repository and open the index.html file i
 
 
 ### Credits: 
+
 The project utilizes HTML and CSS for the front-end design.
 
 
-
+![Screenshot 2024-05-16 200705](https://github.com/aakasshhh/Coursera/assets/118706951/a07b0742-dd4e-4540-9f90-c21e8f4dfab3)
 
 
 ### Contact Information:
